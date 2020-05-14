@@ -18,7 +18,7 @@ import javafx.stage.Stage;
  * @author AboOod_shbika99
  */
 public class P3HW5N extends Application{
-
+// :*
     /**
      * @param args the command line arguments
      */
